@@ -173,7 +173,7 @@ class Game {
     textSize(32); text("TESEO EN EL LABERINTO", width / 2, height / 2 - 60);
     textSize(16); text("Presioná ESPACIO para comenzar", width / 2, height / 2);
     textSize(14); fill(180);
-    text("Trabajo Práctico Final — Taller de Diseño Digital", width / 2, height / 2 + 60);
+    text("Trabajo Práctico Final parte 2", width / 2, height / 2 + 60);
     text("Olindi Luciano y Haedo Lorenzo", width / 2, height / 2 + 80);
   }
 
@@ -474,3 +474,4 @@ class Enemigo {
     return false;
   }
 }
+
